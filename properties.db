@@ -2,4 +2,4 @@
 user=admin
 password=12345678
 host=database-1.cjzdliyg2efh.ap-southeast-1.rds.amazonaws.com
-database=database-1
+database=students
